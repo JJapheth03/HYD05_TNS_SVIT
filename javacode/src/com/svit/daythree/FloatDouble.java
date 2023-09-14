@@ -1,4 +1,4 @@
-package com.svit.daythtree;
+package com.svit.daythree;
 
 public class FloatDouble {
 	public static void main(String[] args) {
